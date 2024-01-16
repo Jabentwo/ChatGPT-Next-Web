@@ -1,7 +1,7 @@
 import { BuiltinMask } from "./typing";
 
 export const CN_MASKS: BuiltinMask[] = [
-  {
+ /* {
     avatar: "1f5bc-fe0f",
     name: "以文搜图",
     context: [
@@ -318,7 +318,7 @@ export const CN_MASKS: BuiltinMask[] = [
     lang: "cn",
     builtin: true,
     createdAt: 1688899480536,
-  }, */
+  }, 
   {
     avatar: "270d-fe0f",
     name: "互联网写手",
@@ -410,7 +410,7 @@ export const CN_MASKS: BuiltinMask[] = [
     builtin: true,
     createdAt: 1688899480537,
   },
-  /* {
+   {
     avatar: "1f513",
     name: "越狱模式 [Jailbreak]",
     context: [
