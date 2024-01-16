@@ -51,9 +51,9 @@ const NewChat = dynamic(async () => (await import("./new-chat")).NewChat, {
   loading: () => <Loading noLogo />,
 });
 
-/* const MaskPage = dynamic(async () => (await import("./mask")).MaskPage, {
+ const MaskPage = dynamic(async () => (await import("./mask")).MaskPage, {
   loading: () => <Loading noLogo />,
-}); */
+});
 
 export function useSwitchTheme() {
   const config = useAppConfig();
