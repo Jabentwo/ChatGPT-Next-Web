@@ -14,7 +14,7 @@ import { BuiltinMask } from "./typing";
       },
     ],
     modelConfig: {
-      model: "gpt-3.5-turbo",
+      model: "3.5-turbo",
       temperature: 1,
       max_tokens: 2000,
       presence_penalty: 0,
