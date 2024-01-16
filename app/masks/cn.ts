@@ -15,7 +15,7 @@ import { BuiltinMask } from "./typing";
       {
         id: "text-to-pic-1",
         role: "user",
-                 content: "Can you draw some pictures for me?",    
+        content: "Can you draw some pictures for me?",    
         date: "",
       },
       {
